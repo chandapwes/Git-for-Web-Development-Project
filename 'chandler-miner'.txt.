@@ -1,1 +1,40 @@
 completed codepen link https://codepen.io/Chanmanz/pen/qBqQmXZ
+
+Answers to today's questions
+1. Semantic HTML is the mode by which we give meaning(through tags) to what is on a web page.
+2. HTML is used to create content on a web page. It is the structure of what we look at.
+3. An attribute is a word used inside the opening tag to control an element's function.
+4. An h1 tag is used to state the main point of a website and it should only be used once per page. 
+5. tel and email both have required attributes
+6. the head is where you put metadata
+7. id is an identifier used to link with css
+8. any element that needs it
+9. once
+10. a class is another way to identify and link similar elements to each other
+11.  any element that needs it 
+12. as many times as you need
+13. use an anchor <a> element with 'href' and the page you want to link with a blank target.
+14. the alt attribute gives an alternate text for an image if it can't be displayed. 
+15. write a hash # with the id name
+16. <section> defines different sections in html. <div> groups elements for structure
+17. CSS is used to style html documents. it gives them color and 'life'
+18. you write the name of the elements you want to select. 
+19. a class can identify many elements while an ID can only identify one. For example: because there is only one header, you might use an ID to identify that but you might use a class to identify the many paragraphs within the text. 
+20. write a period then the class name for the elements you want to find. 
+21. class='human' 
+22. it selects all elements that are held within a specific element. This can be useful so that you don't have to specifically select each individual element you are wanting to select. 
+23. :link selector
+24. a word added to a selector that specifies a special state of the selected elements. 
+25. use the line-height property
+26. use the letter-spacing property
+27. text-transform properties uppercase, lowercase, and capitalize
+28. border-width:1px; border-style: dotted; border-color: black;
+29. select()
+30. /* comment */
+31. ls command in terminal 
+32. ls command in terminal
+33. rm command in terminal. you have to be careful because you can't get it back. 
+34. best practice and it helps you move quickly and efficiently.
+35. any time you make a significant change. 
+36. git push command
+37. create your own version by forking the file, clone the repo, use the cd command to go to the directory you want the clone to be, use the git clone <link-to-repo> command, cd into the newly created repo using the cd<repo-name> command, use the git checkout -b 'firstname-lastname' command to create your own branch, work on the repo, add and commit changes with git add . and git commit -m commands, push your changes back up to your Github repo using git push -u origin branch-name, submit a pull request, go back to forked project and click on Branch:master, click your name branch and click new pull request, change the base repository, click create pull request.   
